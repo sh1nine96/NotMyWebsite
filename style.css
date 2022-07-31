@@ -1,0 +1,14 @@
+* {
+    background-color: thistle;
+
+}
+
+h1 {
+    color: rgb(27, 85, 67);
+}
+
+div {
+    border: 1px solid coral;
+    color: rgb(16, 22, 3);
+    padding: 10px;
+}
